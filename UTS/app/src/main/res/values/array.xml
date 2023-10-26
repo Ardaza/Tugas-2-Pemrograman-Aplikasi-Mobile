@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="integer_skill_array">
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </integer-array>
+
+    <string-array name="string_user_array">
+        <item>@string/nama_satu</item>
+        <item>@string/nama_dua</item>
+        <item>@string/nama_tiga</item>
+        <item>@string/nama_empat</item>
+        <item>@string/nama_lima</item>
+        <item>@string/nama_enam</item>
+    </string-array>
+    <string-array name="string_email_array">
+        <item>antonin@gmail.com</item>
+        <item>claudian@gmail.com</item>
+        <item>artafi@gmail.com</item>
+        <item>aderina@gmail.com</item>
+    </string-array>
+</resources>

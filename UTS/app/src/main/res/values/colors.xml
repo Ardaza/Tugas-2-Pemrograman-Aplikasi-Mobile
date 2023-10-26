@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="french_dark_red">#8b0000</color>
+    <color name="french_blue">#002654</color>
+    <color name="french_red">#ED2939</color>
+    <color name="imperial_france_gold">#B3860A</color>
+    <color name="french_brown">#8b4513</color>
+</resources>
